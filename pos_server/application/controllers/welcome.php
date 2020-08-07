@@ -568,7 +568,10 @@ echo "Mail sent";
 	{
 		if($this->input->post('code')!=md5('phaMail')) exit(1);
 		
-		$this->Mail_model->myEmail($this->input->post('mail'),$this->input->post('title'),urldecode($this->input->post('content')),$this->input->post('headers'),$this->input->post('memberID'),100);
+        if($this->input->post('priority')==0) $p = 100;
+        else $p = $this->input->post('priority');
+        
+		$this->Mail_model->myEmail($this->input->post('mail'),$this->input->post('title'),urldecode($this->input->post('content')),$this->input->post('headers'),$this->input->post('memberID'),$p);
 			
 		
 		
