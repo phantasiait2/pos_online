@@ -1,0 +1,162 @@
+@charset "UTF-8";
+/* CSS Document */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	padding: 0;
+	margin: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset,img { 
+	border: 0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-weight: normal;
+	font-style: normal;
+}
+ol,ul {
+	list-style: none;
+}
+caption,th {
+	text-align: left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+h2{
+	font-size: 24px;
+}
+h3{
+	font-size: 14px;
+}
+
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border: 0;
+}
+
+.clearfix{
+	clear:both;
+}
+
+#sheetMain{
+	width:740px;
+	background:#FFF;
+	text-align:left;
+}
+
+input{
+	border-color:#000;
+	border-width:1px;
+}
+.inputSmall{
+	width:50px;
+	border-style:solid;
+	border-width:0px 0px 1px;}
+
+.inputMedium{
+	width:100px;
+	border-style:solid;
+	border-width:0px 0px 1px;
+}
+
+.inputHalf{
+	width:180px;
+	border-style:solid;
+	border-width:0px 0px 1px;
+}
+
+.inputLarge{
+	width:200px;
+	border-style:solid;
+	border-width:0px 0px 1px;
+}
+
+.inputFull{
+	width:360px;
+	border-style:solid;
+	border-width:0px 0px 1px;
+}
+
+.inputModi{
+	width:30px;
+	border-style:solid;
+	border-width:1px;
+}
+
+.bounding{
+	border-color:#000;
+	border-width:1px;
+}
+
+.sheetHeader{
+	font-size:12px;
+	background:#FFF;
+	width:740px;
+}
+
+.sheetType{
+	color:#400;
+	text-align:center;
+	float:left;
+}
+
+.menu{
+	float:right;
+}
+
+.sheet{
+	width:740px;
+}
+
+.sheetTitle{
+	 background:#000; 
+	 color:#FFF; 
+	 text-align:center;
+}
+
+.leftBox{
+	float:left;
+	width:365px;
+}
+.rightBox{
+	float:right;
+	width:365px;
+}
+
+.box{
+	 width:365px; 
+	 margin-top:5px;
+}
+
+.boxBig{
+	width:740px;
+	margin-top:5px;
+}
+
+.descriptionBox{
+	width:365px;
+	max-width:365px;
+	min-width:365px;
+	height:150px;
+	max-height:150px;
+	min-height:150px;
+}
+
+.bigTextarea{
+	width:740px;
+	max-width:740px;
+	min-width:740px;
+	height:150px;
+	max-height:150px;
+	min-height:150px;
+}
+
+.saveButton{
+	font-size:12px;
+}
+	

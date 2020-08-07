@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.user_info_table{ width:500px; border:0; }
+.user_info_table th{ width:120px; font-size:14px; text-align:right; vertical-align:top; border-right:1px solid #BBB; padding-right:10px; padding-top:5px; }
+.user_info_table td{ vertical-align:top; font-size:14px; padding-left:10px; padding-top:5px; padding-bottom:5px; }
+
+.user_edit_table{ width:700px; border:0; }
+.user_edit_table span{ color:#BBB; }
+.user_edit_table input{ margin-left:10px; margin-bottom:7px; }
+.user_edit_table select{ margin-left:10px; margin-bottom:10px; }
+.user_edit_table th{ width:120px; font-size:14px; text-align:right; vertical-align:top; border-right:1px solid #BBB; padding-right:10px; padding-top:5px; }
+.user_edit_table td{ vertical-align:top; padding-top:5px; }
+.user_edit_table p{ margin-left:10px; margin-bottom:5px; }
+.user_edit_table h5{ margin-left:10px; }
+
+
+.user_photo_big{ border:1px solid #BBB; width:190px; height:250px; }
+#user_photo_preview{ border:1px solid #BBB; width:60px; height:60px; }
+.user_photo_upload_info{ float:right; width:500px; }
+.user_photo_upload_info p{ margin-top:5px; }
+.user_photo_upload_info h5{ margin-top:5px; }
+
+.user_welcome_table{ width:450px; border:0px;}
+.user_welcome_table th{ width:50px; font-size:14px; text-align:right; vertical-align:top; border-right:1px solid #BBB; padding-right:10px; padding-top:5px; }
+.user_welcome_table td{ vertical-align:top; font-size:14px; padding-left:10px; padding-top:5px; padding-bottom:5px; }
+.user_welcome_table h5{ margin-top:5px; }
+
+.welcome_button_wrap{ border:1px solid #BBB; width:170px; height:80px; }
+.welcome_button{ background:#900; height:70px; width:160px; text-align:center; }
+.welcome_button:hover{ background:#800;  }
+.welcome_button:hover a{ text-decoration:none; }
+	
+.preview_margin{
+	 position:relative;overflow:hidden;width:50px;height:50px;
+}

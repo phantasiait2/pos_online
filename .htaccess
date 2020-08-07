@@ -1,0 +1,30 @@
+RewriteEngine on
+
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ 
+
+RewriteCond $1 !^(images|javascript|style|upload|pos_server|robots\.txt)
+
+#RewriteRule ^(.*)$ /index.php/$1  [L,QSA]
+RewriteRule ^(.*)$ index.php?/$1
+
+RewriteRule ^images/(.*)$ /pos_server/images/$1
+
+RewriteRule ^style/(.*)$ /pos_server/style/$1 
+
+RewriteRule ^javascript/(.*)$ /pos_server/javascript/$1 
+
+RewriteRule ^upload/(.*)$ /pos_server/upload/$1 
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 149.255.255.242
+
+deny from 220.181.125.202
+deny from 202.152.19.100

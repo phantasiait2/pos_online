@@ -1,0 +1,31 @@
+<?php 
+class login_model extends Model {
+	function login_model()
+	{
+		
+	  // 呼叫模型(Model)的建構函數
+        parent::Model();
+	}
+
+	function loginChk($my_pid,$myid)
+	{
+		$this->load->library('session');
+		//登入判斷
+		$my_pid = $this->session->userdata('my_pid');
+		if(empty($my_pid))
+		{
+			return false;
+		}
+		else
+		{
+			
+			$myid = $this->session->userdata('login_id');
+			$my_pid = $this->session->userdata('my_pid');
+			return true;
+		}
+
+	}
+
+}
+
+?>

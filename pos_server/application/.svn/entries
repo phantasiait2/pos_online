@@ -1,0 +1,55 @@
+10
+
+dir
+2
+http://140.112.31.153:3340/svn/pos_client/pos_client/application
+http://140.112.31.153:3340/svn/pos_client
+
+
+
+2011-03-17T13:23:51.482507Z
+2
+phant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d69ce127-66af-7248-b9c5-dfe752378f78
+
+helpers
+dir
+
+hooks
+dir
+
+language
+dir
+
+models
+dir
+
+config
+dir
+
+controllers
+dir
+
+errors
+dir
+
+libraries
+dir
+
+views
+dir
+

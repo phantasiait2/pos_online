@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.shipment_long{
+		width:250px;
+		font-size:18px;
+		padding:5px;
+	
+}
+.shipment_medium{
+		width:100px;
+		font-size:18px;
+		padding:5px;
+	
+}
+.shipment_short{
+		width:60px;
+		font-size:18px;
+		padding:5px;
+	
+}
+
+.shipment_tr{
+		height:10px;
+		background:#FFF;
+}
+
+.shipment_btn{
+  width:150px; 
+  height:40px; 
+  float:right; 
+  font-size:16pt
+	
+}
+.total{
+	text-align:right; 
+	font-size:16pt; 
+	color:#FFF; 
+	font-weight:bold;
+	
+	
+}
+
+h2{
+	margin-top:10px;
+	color:#FFF;
+	
+}

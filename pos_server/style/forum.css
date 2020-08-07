@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.forumBox{
+	width:700px;
+}
+
+#forumBox{
+	width:700px;
+
+}
+
+#forumBox .forumBoxHeader{
+	font-size:14px;
+	vertical-align:bottom;
+	height:18px;
+}
+
+#forumBox .forumBoxContent{
+	font-size:12px;
+	padding:0px;
+	height:20px;
+}
+
+#forumBox .topic{
+	padding-left:10px;
+}
+
+#forumBox .creater{
+	width:90px;
+}
+
+#forumBox .post{
+	width:60px;
+	text-align:center;
+}
+
+#forumBox .lastedPost{
+	width:140px;
+}
+
+.forumUserInfoBox{
+	padding:5px;
+}
+
+.forumUserImg{
+	 float:left; width:50px; max-width:50px; padding:5px;
+}
+
+.forumUserInfo{
+	float:right; width:620px; padding:5px;
+}
+
+.forumUserInfo h5{
+	margin-top:3px;
+}
+
+.forumArtical{
+	 clear:both; margin-top:5px;
+	 padding:5px;
+}
+
+.forumOtherMsgbox{
+	padding:5px;
+	margin:20px;
+	background:#EEE;
+}

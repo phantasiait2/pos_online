@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.PHAButton{
+	padding:2px 5px;
+	color:#FFF;
+	background:#600;
+}
+
+.PHA_bg_info_delete_button{
+	padding:2px 10px;
+	color:#FFF;
+	background:#900;
+}
+
+.PHA_bg_info_modify_button{
+	padding:2px 10px;
+	color:#000;
+	background:#FF0;
+}
+
+.PHA_bg_info_add_button{
+	padding:2px 10px;
+	color:#FFF;
+	background:#060;
+
+}
+
+.PHA_dialog_add_new_player_button{
+	padding:1px 10px;
+	color:#FFF;
+	background:#600;
+}
+
+.table_680{ width:680px; border:0; }
+.table_680 th{ width:120px; font-size:14px; text-align:right; vertical-align:top; border-right:1px solid #BBB; padding-right:10px; padding-top:5px; padding-bottom:5px; }
+.table_680 td{ vertical-align:top; padding-top:5px; padding-left:10px; padding-bottom:5px; }
+.table_ps{ color:#BBB; margin-top:5px; margin-bottom:5px; }

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/pos_client/!svn/ver/2/pos_client/libraries
+END
+Pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Pagination.php
+END
+User_agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/User_agent.php
+END
+Sha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Sha1.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Parser.php
+END
+Output.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Output.php
+END
+Zip.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Zip.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Config.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Loader.php
+END
+Calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Calendar.php
+END
+Unit_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Unit_test.php
+END
+Profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Profiler.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Controller.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Language.php
+END
+Upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Upload.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Encrypt.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Email.php
+END
+Xmlrpcs.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Xmlrpcs.php
+END
+Cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Cart.php
+END
+Ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Ftp.php
+END
+Validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Validation.php
+END
+Benchmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Benchmark.php
+END
+URI.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pos_client/!svn/ver/2/pos_client/libraries/URI.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Input.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Model.php
+END
+Xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Xmlrpc.php
+END
+Typography.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Typography.php
+END
+Image_lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Image_lib.php
+END
+Form_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Form_validation.php
+END
+Router.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Router.php
+END
+Exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Exceptions.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Log.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Session.php
+END
+Hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Hooks.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pos_client/!svn/ver/2/pos_client/libraries/index.html
+END
+Trackback.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Trackback.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pos_client/!svn/ver/2/pos_client/libraries/Table.php
+END

@@ -1,0 +1,90 @@
+body{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/background.png', sizingMethod='crop');
+}
+
+.searchButton{ 
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/button_search.png', sizingMethod='crop');
+}
+
+.footer_container{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/footer_container_bg.png', sizingMethod='crop');
+}
+
+.main_content_top{	
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main_top.png', sizingMethod='crop');
+}
+
+.menubox_content_top{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/menubox_top_single.png', sizingMethod='crop');
+
+}
+
+.menubox_content_bottom{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/menubox_bottom_single.png', sizingMethod='crop');
+}
+
+.main_content_bottom{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main_bottom.png', sizingMethod='crop');
+}
+
+.main_content_top_big{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main_top_big.png', sizingMethod='crop');
+}
+
+.main_content_bottom_big{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main_bottom_big.png', sizingMethod='crop');
+}
+
+.boxCententTop{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/messagebox_top.png', sizingMethod='crop');
+}
+
+.boxCententBottom{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/messagebox_bottom.png', sizingMethod='crop');
+}
+
+.boxCententTopBig{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/messagebox_top_big.png', sizingMethod='crop');
+}
+
+.boxCententBottomBig{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/messagebox_bottom_big.png', sizingMethod='crop');
+}
+
+.indexBoxArraw{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/indexbox_arraw.png', sizingMethod='crop');
+}
+
+.logo a{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/logo.png', sizingMethod='crop');
+}
+
+.registerLeft{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/image_register.png', sizingMethod='crop');
+}
+
+.title{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/titles.png', sizingMethod='crop');
+}
+
+.titleBig{
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/titles.png', sizingMethod='crop');
+}

@@ -1,0 +1,11 @@
+#member_container{ list-style-type:none; margin:0px; padding:0px; }
+#member_container .ui-selecting { background: #FECA40; }
+#member_container .ui-selected { background: #F39814; color: white; }
+#member_container li.member_item{ width:160px; border:1px solid #BBB; float:left; margin-right:10px; margin-bottom:10px; height:60px; }
+#new_member_tag{ display:none;}
+
+#game_container{ list-style-type:none; margin:0px; padding:0px; }
+#game_container .ui-selecting { background: #FECA40; }
+#game_container .ui-selected { background: #F39814; color: white; }
+#game_container li.game_item{ width:160px; border:1px solid #BBB; float:left; margin-right:10px; margin-bottom:10px; height:60px; }
+#new_game_tag{ display:none;}

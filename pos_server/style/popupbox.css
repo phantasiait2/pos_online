@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.popupBoxHeader{ height:24px; background:#900; color:#FFF; text-align:center; }
+
+.paddingFive{ padding:5px; }
+
+.popupBoxContent{
+	 font-size:12px; background:#FFF; text-align:left; overflow:auto; 
+}
+
+.popupBoxFooter{
+	background:#BBB; text-align:right; height:30px; clear:both; position:relative; left:15px; top:15px; 
+}
+
+.addPlayerControl{ clear:both; background:#BBB; font-size:12px; text-align:left; height:30px; }
+
+.popupboxMsg{ float:left; margin-top:5px; }
+
+.OkayorCancel{ text-align:right; margin-top:5px; float:right; }
+
+.player{ clear:both; padding:5px; border-bottom:1px solid #BBB; }
+
+.addPlayerImg{ float:left; margin-right:10px; }
+
+.newPlayerId{
+	width:120px;
+	max-width:120px;
+	min-width:120px;
+}
+
+.removePlayer{ float:right; margin-top:24px; }
+
+
+
+/*
+About the id for each popupboxes
+*/
+#trpgAddPlayerBox{
+	width:300px;
+	height:294px;
+}
+
+
+#joinTrpgGroupBox{
+	width:300px;
+	height:256px;
+}
+
+.trpgContent{
+	height:240px;
+}
+
+.joinTrpgGroupMsg{
+	margin-top:5px;
+	margin-bottom:5px;
+	min-width:270px;
+	width:270px;
+	max-width:270px;
+	min-height:180px;
+	height:180px;
+	max-height:180px;
+}
+
+.bg_join_content{
+	height:240px;
+}
+
+
+.bg_join_control{
+	clear:both; background:#BBB; font-size:12px; text-align:right; height:30px;
+}
+
+.bg_join_dialog_info_table{
+	margin-top:10px;
+	width:auto;
+	border:0px;
+}
+
+.bg_join_dialog_info_table th{
+	width:60px;
+	max-width:60px;
+	padding-right:10px;
+	padding-top:3px;
+	padding-bottom:2px;
+	border-right:1px solid #BBB;
+	text-align:right;
+}
+
+#bg_join_member_box{
+	width:300px;
+}

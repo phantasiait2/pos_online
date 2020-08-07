@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+.popUpBox{
+	padding:10px;
+	z-index:5;
+	position:absolute;
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	top:200px;
+	left:550px;
+	border-color:#800;
+	border-width:1px;
+	border:solid;
+	
+	
+}
+
+
+
+
+
+
+.timer{
+	float:left;
+	width:400px;
+	border:solid;
+	border-width:2px;
+	background-color:#FFF;
+	padding:10px;
+	
+
+}
+
+.checkout{
+	margin-top:20px;
+	background-color:#FFF;
+	float:left;
+	width:955px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	font-size:14pt; 
+	
+		
+}
+
+.member{
+	margin-left:10px;
+	background-color:#FFF;
+	float:left;
+	width:520px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	
+	
+
+	
+	
+		
+}
+.big_button{
+	font-size:24px;
+	padding:3px;
+	
+	
+}
+
+.short_text{
+	width:30px;	
+}
+
+.medium_text{
+	width:100px; 
+	height:30px;	
+	
+}
+
+
+.big_text{
+	width:200px; 
+	height:30px;	
+	
+}
+
+.product{
+		background-color:#FFF;
+	float:left;
+	width:943px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	margin-top:20px;
+	
+	}
+
+.checkOutInfo{
+	margin:5px 0 0 5px;
+	
+	
+	}
+#sellTable{
+	width:940px;
+	border:solid;
+	border-width:1px;
+	text-align:center;
+	
+	}

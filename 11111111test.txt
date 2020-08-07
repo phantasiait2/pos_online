@@ -1,0 +1,204 @@
+<html>
+<head>
+<title>露天拍賣--簡單、好玩、免費、安全</title>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<link href="http://www.ruten.com.tw/css/auction.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.ruten.com.tw/css/splitpage.css" type="text/css">
+<script language="JavaScript" src="http://www.ruten.com.tw/js/javascript.js" ></script>
+<script language="JavaScript" src="http://www.ruten.com.tw/js/form.js" ></script>
+<script language="JavaScript" src="http://www.ruten.com.tw/js/search.js" ></script>
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" >
+<center>
+  <!--網頁head開始-->
+   <div align="center">
+ <link href="http://www.ruten.com.tw/css/new.css" rel="stylesheet" type="text/css">
+ <script language="JavaScript" src="http://www.ruten.com.tw/js/form.js" ></script>
+ <script type="text/javascript" src="http://www.ruten.com.tw/js/show_login_time.js" ></script>
+ <table width="900" border="0" cellpadding="0" cellspacing="0" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
+  <tr>
+   <td width="700" align="left">
+   	<table width="700" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+      <!--<td width="150" height="100" align="center" bgcolor="#FFFFFF"><a href="http://www.ruten.com.tw"><img src="http://www.ruten.com.tw/images/logo.gif" alt="回首頁" width="122" height="75" border="0" longdesc="http://www.ruten.com.tw" /></a></td>-->
+      <td width="150" height="100" align="center" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="00">
+        <tr>
+          <td>&nbsp;</td>
+          <td align="right" valign="top"><a href="http://www.ruten.com.tw/"><img src="http://www.ruten.com.tw/images/logo.gif" alt="回首頁" width="122" height="75" border="0" longdesc="http://www.ruten.com.tw"></a></td>
+          <td>&nbsp;</td>
+          <!--<td align="right" valign="top"><a href="http://www.ruten.com.tw/"><img src="http://www.ruten.com.tw/images/logo-lu2.gif" alt="回首頁" width="94" height="87" border="0" longdesc="http://www.ruten.com.tw"></a></td>
+          <td width="35" align="left"><img src="http://www.ruten.com.tw/images/logo-lu.gif" width="32" height="62"></td>-->
+        </tr>
+      </table>
+      <a href="http://www.ruten.com.tw"></a></td>
+      <td bgcolor="#FFFFFF"><img src="http://www.ruten.com.tw/images/spacer.gif" width="10" height="1" /></td>
+      <td valign="top" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
+       <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+         <td bgcolor="#D7D7D7" class="bk12"><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
+         <td width="5" bgcolor="#FFFFFF" class="bk12">&nbsp;</td>
+         <td width="160" valign="bottom" bgcolor="#FFFFFF" class="normal">
+          <a href="https://member.ruten.com.tw/user/login.htm" class="normal-b">會員登入</a><br />新使用者？ <a href="https://member.ruten.com.tw/user/register_step1.htm">加入會員</a>
+         </td>
+         <td background="http://www.ruten.com.tw/images/flexible_up-bg2.gif">
+          <table border="0" cellpadding="0" cellspacing="0" background="http://www.ruten.com.tw/images/flexible_up-bg2.gif">
+           <tr>
+            <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="15" /></td>
+           </tr>
+           <tr>
+            <td height="30" valign="top">
+         	   <table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+               <td class="gy12"><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/system/" class="gy13">客服中心</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/system/server_center.htm?000500010001" class="gy13">常見問題</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/security/index.html" class="gy13">交易安全</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://forum.ruten.com.tw/index.php" class="gy13">討論區</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.pchome.com.tw" class="gy13" target="_new">PChome</a></td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <tr>
+            <td><a href="http://class.ruten.com.tw/category/"><img src="http://www.ruten.com.tw/images/tag1_new.gif" width="87" height="25" border="0" /></a><a href="http://mybid.ruten.com.tw/upload/step1.htm"><img src="http://www.ruten.com.tw/images/tag2_new.gif" width="87" height="25" border="0" /></a><a href="http://point.ruten.com.tw/ap2/ApBuy"><img src="http://www.ruten.com.tw/images/tag6_new.gif" width="87" height="25" border="0" /></a><a href="http://mybid.ruten.com.tw/master/my.php"><img src="http://www.ruten.com.tw/images/tag3_new.gif" width="100" height="25" border="0" /></a></td>
+           </tr>
+           <tr>
+            <td bgcolor="#F7C06C"><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+    </table>
+   </td>
+   <td width="353" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
+    <table border="0" align="right" cellpadding="0" cellspacing="0">
+     <tr>
+      <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="15" /></td>
+      <td width="20" rowspan="4">&nbsp;</td>
+     </tr>
+     <tr>
+      <td height="30" valign="top">
+       <table width="99%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+         <td class="gy12">&nbsp;</td>
+         <td width="200">
+
+	<form name="serc" method="get" action="http://search.ruten.com.tw/search/s000.php">
+		<input type="hidden" name="searchfrom" value="headbar">
+          <input name="k" type="text" onKeyDown="if(event.keyCode == 13) document.serc.submit();" value="" size="20" class="bk12" />
+          <input name="serach_button2" type="button" value="搜尋" class="bk12" onclick="document.serc.submit();">
+
+          </form>
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+     <tr>
+      <td>&nbsp;</td>
+     </tr>
+     <tr>
+      <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+
+</div>
+  <!--網頁head結束-->
+
+  <!--banner、10*1開始-->
+<!--banner、10*1結束-->
+
+<!--路徑開始-->
+ <table width="900" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td height="25" class="dbe16"><img src="http://www.ruten.com.tw/images/arrow2.gif" width="20" height="15" /><a href="http://www.ruten.com.tw">露天拍賣</a> <font color="#0400C5"> > 商品搜尋結果</font> </td>
+  </tr>
+ </table><!--路徑結束-->
+	<table width="870" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td><img src="http://www.ruten.com.tw/images/register_up_p.gif" width="870" height="25" /></td>
+  </tr>
+  </table>
+  <table width="778" border="0" cellspacing="0" cellpadding="0" background="http://www.ruten.com.tw/images/register_bg_p.gif">
+  <tr valign="top">
+  	<td width="8" class="box"></td>
+    <td align="center" valign="top">
+    	<table width="88%" border="0" align="center" cellpadding="0" cellspacing="0">
+     	<tr>
+      	<td height="32"></td>
+      </tr>
+      </table>
+          <!--版型9a-搜尋拍賣編號結果(NO)開始-->
+
+      <table width="660" border="0" cellspacing="5" cellpadding="0">
+         <tr>
+         	<td class="t19"><strong><font color="bf0000">商品搜尋處理中…</font></strong></td>
+         </tr>
+         <tr>
+         	<td><strong><font color="#000000"></font></strong></td>
+         </tr>
+      </table>
+      <table border="0" cellspacing="2" cellpadding="0">
+      </table>
+       <br/>
+       <a href="http://www.ruten.com.tw">拍賣首頁 </a>
+          <!--版型9a-搜尋拍賣編號結果(NO)結束-->
+
+      <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+       	<td height="30"></td>
+      </tr>
+      </table>
+			<table width="870" border="0" cellspacing="0" cellpadding="0">
+     	<tr>
+      	<td><img src="http://www.ruten.com.tw/images/register_down_p.gif" width="870" height="25" /></td>
+     	</tr>
+    	</table>
+		</td>
+    <td width="8" class="box"></td>
+  </tr>
+  </table>
+  <table border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	 	 
+	 <tr>
+	  <td height="25" align="center" class="bk12">
+	  	<a href="http://www.ruten.com.tw/about/about_us.htm" class="bk13">關於露天</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://www.ruten.com.tw/system/" class="bk13">客服中心</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://www.ruten.com.tw/system/server_center.htm?000500010001" class="bk13">常見問題</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://www.ruten.com.tw/security/index.html" class="bk13">交易安全</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://www.ruten.com.tw/system/server_center.htm?00060001" class="bk13">會員合約</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://www.ruten.com.tw/system/server_center.htm?00060002" class="bk13">隱私權聲明</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
+	  	<a href="http://twexport.ebay.com/" class="bk13" target="_new">eBay 跨國交易</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" border="0" />
+		<a href="http://www.ruten.com.tw/system/advertisement/advertisement.html" target="_blank" class="t13">廣告刊登</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" border="0" />
+		<a href="http://www.104.com.tw/jobbank/cust_job/introduce.cfm?j=5a3a432634463e6956583a1d1d1d1d5f2443a363189j97" class="bk13" target="_new">徵人</a>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td align="center" class="bk13">露天市集國際資訊股份有限公司版權所有，轉載必究‧Copyright&copy;　PChome eBay Co.,&nbsp;Ltd.</td>
+	 </tr>
+	 <tr>
+	  <td height="5">&nbsp;</td>
+	 </tr>
+</table>
+
+<!-- ts code start -->
+<script type="text/javascript">
+var ts_host = 'http://ts.ruten.com.tw';
+var ts_js = "<script src=\"" + ts_host + "/ts.js?19\" type=\"text/javascript\"><\/script>";
+document.write( ts_js );
+</script>
+<script type="text/javascript">
+_ts_js_fn.init();
+_ts_js_fn.run();
+</script>
+<!-- ts code end -->
+
+  <script type="text/javascript" language="JavaScript">
+    setTimeout("location.href='http://mybid.ruten.com.tw/credit/point?wenshintw?'",200);
+  </script>
+   </center>
+</body>
+</html>

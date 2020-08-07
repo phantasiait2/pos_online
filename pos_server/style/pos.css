@@ -1,0 +1,463 @@
+@charset "utf-8";
+/* CSS Document */
+
+.popUpBox{
+	padding:10px;
+	z-index:5;
+	position:absolute;
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	top:200px;
+	left:550px;
+	border-color:#800;
+	border-width:1px;
+	border:solid;
+	
+	
+}
+#msgColumn{
+	background-image:url(/images/index-marquee_02.png);
+	float:left;
+	margin-left:20px;
+	margin-bottom:5px;
+	margin-right:auto;
+	height:20px;
+	color:#FFF;
+	width:1014px;
+	padding:5px;
+	border-radius:15px;
+	box-shadow:0 0 5px #222;
+	text-align:center;
+
+	
+}
+
+
+.popUpCover{
+	
+	padding:10px;
+	z-index:3;
+	position:absolute;
+	width:1000px;
+	
+	background-color:#000;
+	filter:alpha(opacity=70);opacity:0.7;zoom:1;
+	top:0px;
+	left:0px;
+	
+}
+
+.btn_plus{
+	float:left;
+	background-image:url(/images/btn_plus.png);
+	width:27px;
+	height:27px;
+	cursor:pointer;	
+}
+.btn_minus{
+	float:left;
+	background-image:url(/images/btn_minus.png);
+	width:27px;
+	height:27px;
+	cursor:pointer;	
+}
+
+
+.btn_plus:active ,.btn_minus:active{
+	background-image:url(/images/btn_active.png);
+}
+
+
+.floatDiv{
+	padding:10px;
+	z-index:5;
+	position:relative;
+	background-color:#FFF;
+	top:1px;
+	left:10px;
+	border-color:#800;
+	border-width:1px;
+	border:solid;
+
+	
+	
+}
+.loginBtn{
+	background-image:url(/images/login_button-02.png);
+	width:95px;
+	height:31px;
+	border-color:#FF9933;
+	
+	
+	font-size:18px;
+	padding:2px 7px;
+	-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+
+	font-weight: bold;
+
+
+	
+}
+
+.titleBtn{
+	background-image:url(/images/index-tittle-01.png);
+
+	width:130px;
+	height:32px;
+	
+
+	
+	
+	font-size:18px;
+
+	-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+
+	
+
+
+	
+}
+
+.titleBtn:hover{
+	background-image:url(/images/index-tittle-02.png);
+	border-color:#990000;
+	color:#FFF;
+}
+	
+.titleList{
+	margin: 0 auto; 
+	
+
+	margin-bottom:5px;
+	
+	
+	
+	
+}
+
+.productQueryContainer{
+	background-image:url(/images/index_commodity.png);
+	-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	padding:2px;			
+	
+}
+/* tables */
+table.tablesorter {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+}
+table.tablesorter thead tr .theader {
+	background-image: url(/images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(/images/asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(/images/desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+.tablePage{
+
+	}
+#memberTable tr:hover{
+	background:#800;
+	color:#FFF;
+	cursor:pointer;
+		
+}
+
+
+.timer{
+	min-height:175px;
+	float:left;
+	width:400px;
+	border:solid;
+	border-width:2px;
+	background-color:#FFF;
+	margin-left:11px;
+	padding:10px;
+	
+
+}
+
+.checkout{
+	margin-top:20px;
+	background-color:#FFF;
+	float:left;
+	width:1260px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	font-size:14pt; 
+	
+		
+}
+
+.member{
+	min-height:175px;
+	
+	background-color:#FFF;
+	float:left;
+	width:520px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	
+	
+
+	
+	
+		
+}
+.big_button{
+	color:#FFF;
+	border:1px solid #400;
+	font-size:18px;
+	padding:2px 7px;
+	-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:0 1px 3px #888;
+	font-weight: bold;
+	-moz-box_shadow:0 1px 3px #888;
+	-webkit-box-shadow:0 1px 3px #888;
+	background-image:url(/images/index_redbutton_02.png);
+	cursor:pointer;
+	
+	margin:5px;
+}
+
+
+.big_button:hover{ background:#F00;}
+
+
+.short_text{
+	width:26px;	
+	padding:2px;
+	border:1px solid #444;
+	border-radius:4px;
+	box-shadow:inset 0 0 5px #888;
+	background:#EEE;
+}
+
+.medium_text{
+	width:90px; 
+	height:24px;
+	padding:2px 5px;
+	border:1px solid #444;
+	border-radius:4px;
+	box-shadow:inset 0 0 5px #888;
+	background:#EEE;
+	
+}
+
+
+.big_text{
+	width:190px; 
+	height:24px;
+	padding:2px 5px;
+	border:1px solid #444;
+	border-radius:4px;
+	box-shadow:inset 0 0 5px #888;
+	background:#EEE;
+}
+
+.product{
+	background-color:#FFF;
+	float:left;
+	width:1260px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	margin-top:0px;
+	
+	}
+
+.accounting{
+	background-color:#FFF;
+	float:left;
+	width:1024px;
+	padding:10px;
+	border:solid;
+	border-width:2px;
+	margin-top:20px;
+	
+	}
+.checkOutInfo{
+	margin:0 5px 0 0;
+	font-weight:bold;
+	
+	
+	
+	}
+#classSelect{
+	border:solid;
+	border-color:#666;
+	padding:5px;
+	display:none;
+	
+	
+}	
+#classSelect li{
+	float:left;
+	width:200px;
+	list-style-type:none;
+	
+}
+	
+.membetInput{
+	margin-top:10px;
+	
+	
+}	
+
+.levelEditTable{
+	border:hidden;
+	width:500px;
+	font-size:14pt;
+	text-align:center;
+	
+	
+}
+.levelEditTableTh{
+	text-align:right;
+}
+
+.levelEditTable td{
+	padding:3px;	
+}
+
+
+
+
+	
+	
+#sellTable{
+	width:940px;
+	border:solid;
+	border-width:1px;
+	text-align:center;
+	
+	}
+	
+	
+#newProductForm li{
+	text-align:left;
+	list-style:none;
+	margin-top:5px;
+	
+	
+}
+
+.selectList_table{
+	max-height:200px;
+	overflow:auto;
+	background:#EEE;
+	border:solid;
+	border-color:#AAA;
+
+	
+}
+
+.selectList_table table{
+	
+	
+	
+}
+
+.selectList_table tr{
+	
+	cursor:pointer;
+	text-align:left;
+}
+.selectList_table tr td{
+	padding-left:2px;	
+}
+.account_item{
+	
+	float:left;
+	font-size:14pt;
+	width:180px;
+	font-weight:bold;
+	
+	
+	
+	
+}
+#carOption{
+	text-align:center;
+	
+	
+}
+
+
+.td_select{
+	border:solid;
+	
+	
+}	
+
+.pageList{
+	float:left;
+	
+	
+	}
+	
+	
+	
+#recommandRightBtn, #recommandLeftBtn{
+ float:left;
+ background-image: url('/images/left-right-arrow-semi-rd.gif');
+ width:25px; 
+ height:50px;
+ margin-top:100px;
+ cursor:pointer; 	
+
+}	
+
+#recommandRightBtn{
+	background-position:25px 50px;
+	
+	
+}
+#recommandLeftBtn:active{
+	background-position:0px 50px;
+	
+}
+#recommandRightBtn:active{
+	background-position:25px 50px;
+	
+}

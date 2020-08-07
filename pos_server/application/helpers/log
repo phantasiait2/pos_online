@@ -1,0 +1,20 @@
+date: 2011-07-19 15:22:11
+username: phantasiaTW
+message: Invalid API key
+data_dump: Array
+(
+    [username] => phantasiaTW
+    [password] => p53180059
+    [api_key] => nZy9YDiLwDwb
+)
+
+date: 2011-07-19 15:22:11
+username: phantasiaTW
+message: You are not login.
+data_dump: Array
+(
+    [username] => phantasiaTW
+    [password] => p53180059
+    [api_key] => nZy9YDiLwDwb
+)
+

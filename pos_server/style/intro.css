@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.introLeftText{
+	width:500px; margin-left:30px; margin-top:20px;
+}
+
+.introRightText{
+	width:500px; margin-right:40px; margin-top:20px;
+}
+
+.introRightImg{
+	margin-right:50px; margin-top:20px; margin-left:20px; 
+}
+
+.introLeftImg{
+	margin-left:30px; margin-top:20px;
+}

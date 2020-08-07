@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.cpBorder td{
+	text-align:center;
+}
+
+.cpBorder a:hover{
+	color:#000;
+}

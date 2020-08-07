@@ -1,0 +1,6 @@
+#game_container{ list-style-type:none; margin:0px; padding:0px; margin-left:20px; }
+#game_container .ui-selecting { background: #FECA40; }
+#game_container .ui-selected { background: #F39814; color: white; }
+#game_container li.game_item{ width:320px; border:1px solid #BBB; float:left; margin-right:10px; margin-bottom:10px; }
+#game_container .gameInfo { margin-left:5px; width:250px; float:right; word-wrap:break-word; word-break:normal; }
+#new_game_tag{ display:none;}
